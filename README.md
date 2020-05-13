@@ -1,7 +1,7 @@
 # Beats
 
 **Idea**:
-A musical instrument
+- A musical instrument
 
 **What**:
 - A game with each keyboard key correspoding to a unique beat and animation serving as a musical instrument.
