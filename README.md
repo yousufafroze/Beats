@@ -9,5 +9,5 @@
 **How**:
 - Utilized libraries involving paper.js for graphics and animation and howler.js for audio. 
 
-![Alt Text](https://github.com/yousufafroze/Beats/blob/master/beats_demo.gif)
+> ![Alt Text](https://github.com/yousufafroze/Beats/blob/master/beats_demo.gif)
 
