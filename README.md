@@ -11,3 +11,6 @@
 
 > ![Alt Text](https://github.com/yousufafroze/Beats/blob/master/beats_demo.gif)
 
+**Difficulties**
+- Gradual decrement of the animation's sizes
+- Mapping different colours and different beat to each keyboard
